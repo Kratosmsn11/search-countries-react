@@ -70,7 +70,7 @@ class DataTable extends Component {
             <Grid item xs={12} align="center">
               <img src={imgSrc} />
               <Grid item xs={12} align="center">
-                <Typography variant="h4"> Selct a country now!</Typography>
+                <Typography variant="h4"> Select a country now!</Typography>
               </Grid>
             </Grid>
           </Grid>
